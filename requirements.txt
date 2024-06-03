@@ -1,0 +1,6 @@
+Django
+
+gunicorn
+uvicorn
+
+psycopg  # connection to Postgres database
