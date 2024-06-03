@@ -29,5 +29,6 @@ gunicorn wsgi:application
 
 ### Uvicorn:
 ```bash
+cd mysite
 uvicorn asgi:application
 ```
